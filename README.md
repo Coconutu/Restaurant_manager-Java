@@ -1,5 +1,7 @@
-Restaurant manager
-  -application for handling tables orders from an restaurant;
+**Restaurant manager**
+
+**Application for handling tables orders from an restaurant;**
+
   -in this app we have:
     -4 tables;
     -possibility to order products from restaurant portofolio to each table;
@@ -8,4 +10,9 @@ Restaurant manager
     -possibility to store the informations in a file in case of power interruption;
     -possibility to generate report with total daily cashing for current day;
     -possibility to cancel the order;
+
+Screenshot:
+
+![](Rest_manager.PNG)
+
     
