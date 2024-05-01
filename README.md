@@ -1,6 +1,6 @@
-**Restaurant manager**
+# **Restaurant manager**
 
-**Application for handling tables orders from an restaurant;**
+## **Application for handling tables orders from an restaurant;**
 
   -in this app we have:
     -4 tables;
